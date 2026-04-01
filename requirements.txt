@@ -1,0 +1,5 @@
+pandas>=1.3
+numpy
+yfinance
+requests
+lxml
