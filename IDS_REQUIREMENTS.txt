@@ -1,0 +1,16 @@
+Requirements for IDS Forensics Script
+
+**System Requirements:**
+- Linux/macOS system
+- Python 3.7+
+- sudo access (for reading auth logs and system files)
+- netstat/ss (usually pre-installed)
+
+**Python Dependencies:**
+- Standard library only (no pip packages required!)
+
+**Optional:**
+- SMTP credentials for email alerts
+- Cron or GitHub Actions for scheduling
+
+This script uses only built-in Python modules for maximum compatibility and security.
